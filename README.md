@@ -6,7 +6,7 @@ This is a Laravel 11 Configurable Content Management project.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neeraldelhi/configurable-content-management.git
+   git clone https://github.com/neerajdelhi/configuration-content-management-system.git
    ```
 2. Navigate into the project directory:
    ```bash
